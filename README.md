@@ -1,4 +1,4 @@
-# CV192 Practical Session (Python/Numpy)
+# CV192's Python/Numpy/OpenCV Tutorial
 ## Author: Ron Shapira Weber
 
 Table of Contents
